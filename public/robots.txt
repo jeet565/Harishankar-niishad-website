@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harishankar-nishad-dharsiwa.netlify.app/sitemap.xml
+Sitemap: https://harishankarnishadinc.in/sitemap.xml
